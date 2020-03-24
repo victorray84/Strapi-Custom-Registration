@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+Custom regitration with image uploading using strapi.
